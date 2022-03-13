@@ -34,7 +34,7 @@
     "react-i18next": "^11.7.3",
     "react-loading-skeleton": "^2.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "react-use-ref-effect": "^1.1.0",
     "universal-cookie": "^4.0.4",
     "useref": "^1.4.3",

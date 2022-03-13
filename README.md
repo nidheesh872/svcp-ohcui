@@ -4,12 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-// "@testing-library/jest-dom": "^5.16.2",
-// "@testing-library/react": "^12.1.4",
-// "@testing-library/user-event": "^13.5.0",
-// "@types/jest": "^27.4.1",
-// "typescript": "^4.6.2",
-// "web-vitals": "^2.1.4"
 In the project directory, you can run:
 
 ### `npm start`
@@ -50,4 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 # svcp-ohcui

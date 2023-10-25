@@ -16,7 +16,7 @@
     "@types/react-dom": "^16.9.0",
     "@types/react-router-dom": "^5.1.6",
     "@types/segment-analytics": "0.0.33",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "formik": "^2.2.5",
     "formik-material-ui": "^3.0.0-alpha.0",
     "formik-material-ui-lab": "0.0.7",

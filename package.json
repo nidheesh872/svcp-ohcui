@@ -21,7 +21,7 @@
     "formik-material-ui": "^3.0.0-alpha.0",
     "formik-material-ui-lab": "0.0.7",
     "formik-material-ui-pickers": "0.0.11",
-    "i18next": "^19.7.0",
+    "i18next": "^24.2.3",
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.21",
     "lodash": "^4.17.20",
@@ -32,15 +32,15 @@
     "react-draggable": "^4.4.3",
     "react-file-reader": "^1.1.4",
     "react-i18next": "^11.7.3",
-    "react-loading-skeleton": "^2.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-loading-skeleton": "^3.0.0",
+    "react-router-dom": "^6.4.0",
     "react-scripts": "5.0.0",
     "react-use-ref-effect": "^1.1.0",
     "universal-cookie": "^4.0.4",
     "useref": "^1.4.3",
     "web-vitals": "^1.0.1",
     "wretch": "^1.7.4",
-    "yup": "^0.30.0"
+    "yup": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
